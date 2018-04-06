@@ -1,0 +1,4 @@
+fr\west\controller\WebController.class
+fr\west\model\Comment.class
+fr\west\repository\CommentRepository.class
+fr\west\SpringJpaPostgre.class
